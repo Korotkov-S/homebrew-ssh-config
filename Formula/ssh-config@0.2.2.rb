@@ -1,7 +1,7 @@
-class SshConfigAT020 < Formula
+class SshConfigAT022 < Formula
   desc "Tool for a ssh config files"
   homepage "https://github.com/Korotkov-S/ssh-config/blob/main/Readme.md"
-  url "https://github.com/Korotkov-S/ssh-config.git", tag: "v0.2.0"
+  url "https://github.com/Korotkov-S/ssh-config.git", tag: "v0.2.2"
   license ""
   head "https://github.com/Korotkov-S/ssh-config.git", branch: "main"
 
